@@ -1,0 +1,11 @@
+name: Question
+description: Ask for help or information
+title: "[Question]: "
+body:
+  - type: textarea
+    id: question
+    attributes:
+      label: What would you like to know?
+      description: Include any context that will help the community answer.
+    validations:
+      required: true

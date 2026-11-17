@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Ask the community
+    url: https://github.com/waterstrategy/community/discussions
+    about: Ask a question or start a general conversation.
+  - name: Project announcements
+    url: https://github.com/waterstrategy/community/discussions/categories/announcements
+    about: Follow news and announcements from project maintainers.
